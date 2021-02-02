@@ -68,7 +68,7 @@ IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2
 
 _A Learning-based Inverse Kinematics Solver for a Multi-Segment Continuum Robot in Robot-Independent Mapping_<br>
 Jiewen Lai, Kaicheng Huang, Henry K. Chu<br>
-IEEE International Conference on Robotics and Biomimetics (ROBIO), 2019  <span style="color:green">((Best Paper Finalist Award))</span>.
+IEEE International Conference on Robotics and Biomimetics (ROBIO), 2019  <span style="color:red">(Best Paper Finalist Award)</span>.
 
 _Automated Cell Patterning System with a Microchip using Dielectrophoresis_<br>
 Kaicheng Huang, Henry K. Chu, Bo Lu, Jiewen Lai, Li Cheng<br>
