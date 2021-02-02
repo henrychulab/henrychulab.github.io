@@ -28,6 +28,8 @@ nav:
     href:           "/people"
   - name:           "publications"
     href:           "/publication"
+  - name:           "vacancies"
+    href:           "/vacancies"
 
 
 
