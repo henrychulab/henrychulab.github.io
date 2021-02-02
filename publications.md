@@ -10,7 +10,7 @@ permalink: /publication/
 
 _Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation_<br>
 Jiewen Lai, Kaicheng Huang, Bo Lu, Qingxiang Zhao, Henry K. Chu_<br>
-IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. \textcolor{red}{(Under Review)}
+IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. <span style="color:blue">(Under Review)</span>.
 
 _A Learning Approach for Suture Thread Detection with Feature Enhancement and Segmentation for 3D Shape Reconstruction_<br>
 Bo Lu, Xinbo Yu, Henry K. Chu, Kaicheng Huang, Jiewen Lai, Li Cheng<br>
