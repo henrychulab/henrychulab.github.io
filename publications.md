@@ -12,16 +12,24 @@ _Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision_<br>
 Jiewen Lai, Bo Lu, Henry K. Chu<br>
 IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. <span style="color:blue">(Under Review)</span>.
 
+_Shape Estimation and Control of a Soft Continuum Robot under External Payloads_<br>
+Qingxiang Zhao, Jiewen Lai, Kaicheng Huang, X. Hu, Henry K. Chu<br>
+IEEE/ASME Transactions on Mechatronics (T-MECH). 2020. <span style="color:blue">(Revised and Resubmit)</span>.
+
 _Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation_<br>
 Jiewen Lai, Kaicheng Huang, Bo Lu, Qingxiang Zhao, Henry K. Chu<br>
-IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. <span style="color:blue">(Under Review)</span>.
+IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. <span style="color:blue">(Revised and Resubmit)</span>.
+
+_Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers_<br>
+Kaicehng Huang, Zhenxi Cui, Jiewen Lai, B.o Lu , Henry K. Chu<br>
+IEEE Transactions on Automation Science and Engineering (T-ASE), 2020. <span style="color:blue">(Revised and Resubmit)</span>.
 
 _Automated Embryo Manipulation and Rotation via Robotic nDEP-tweezers_<br>
 Kaicheng Huang, Ihab Abu Ajamieh, Zhenxi Cui, Jiewen Lai, James K. Mills, Henry K. Chu<br>
 IEEE Transactions on Biomedical Engineering (T-BME), 2020.
 
 _A Learning Approach for Suture Thread Detection with Feature Enhancement and Segmentation for 3D Shape Reconstruction_<br>
-Bo Lu, Xinbo Yu, Henry K. Chu, Kaicheng Huang, Jiewen Lai, Li Cheng<br>
+Bo Lu,  Xinbo Yu, Jiewen Lai, Kaicheng Huang, Keith C. C. Chan, Henry K. Chu<br>
 IEEE Transactions on Automation Science and Engineering (T-ASE), 2020
 
 _Surgical Suture Thread Detection using a Model-free Approach in a Calibrated Stereo-visual System_<br>
