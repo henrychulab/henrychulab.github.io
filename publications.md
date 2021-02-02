@@ -48,15 +48,19 @@ _Vision-based Surgical Suture Looping through Trajectory Planning for Wound Sutu
 Bo Lu, Henry K. Chu, Kaicheng Huang, Li Cheng<br>
 IEEE Transactions on Automation Science and Engineering (T-ASE), 2018.
 
+_Engineered Bone Scaffolds with Dielectrophoresis-based Patterning using 3D Printing_<br>
+Zhijie Huan, Henry K. Chu, Hongbo Liu, Jie Yang, Dong Sun<br>
+Biomedical microdevices. 2017.
+
 _Three-dimensional Cell Manipulation and Patterning using Dielectrophoresis via a Multi-layer Scaffold Structure_<br>
 Henry K. Chu, Zhijie Huan, James K. Mills, J. Yang, Dong Sun<br>
 Lab on a Chip. 2015.
 
-_Design and Characterization of a Conductive Nanostructured Polypyrrole-Polycaprolactone coated Magnesium/PLGA Composite for Tissue Engineering Scaffolds_<br>
+_Design and Characterization of a Conductive Nanostructured Polypyrrole-Polycaprolactone Coated Magnesium/PLGA Composite for Tissue Engineering Scaffolds_<br>
 Haixia Liu, Ran Wang, Henry K. Chu, Dong Sun<br>
 Journal of Biomedical Materials Research Part A. 2015.
 
-_Automated parallel microassembly for MEMS application_<br>
+_Automated Parallel Microassembly for MEMS Application_<br>
 Henry K. Chu, James K. Mills, William L. Cleghorn<br>
 Journal of Micromechanics and Microengineering. 2012.  <span style="color:red">(IOP Select Article)</span>.
 
