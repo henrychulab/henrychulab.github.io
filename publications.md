@@ -16,7 +16,7 @@ _Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision_<br>
 Jiewen Lai, Bo Lu, Henry K. Chu<br>
 IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. <span style="color:blue">(Under Review)</span>.
 
--_Shape Estimation and Control of a Soft Continuum Robot under External Payloads_<br>
+_Shape Estimation and Control of a Soft Continuum Robot under External Payloads_<br>
 Qingxiang Zhao, Jiewen Lai, Kaicheng Huang, X. Hu, Henry K. Chu<br>
 IEEE/ASME Transactions on Mechatronics (T-MECH). 2020. <span style="color:blue">(Major Revision)</span>.
 
