@@ -34,23 +34,27 @@ IEEE Transactions on Biomedical Engineering (T-BME), 2020.
 
 _A Learning Approach for Suture Thread Detection with Feature Enhancement and Segmentation for 3D Shape Reconstruction_<br>
 Bo Lu,  Xinbo Yu, Jiewen Lai, Kaicheng Huang, Keith C. C. Chan, Henry K. Chu<br>
-IEEE Transactions on Automation Science and Engineering (T-ASE), 2020
+IEEE Transactions on Automation Science and Engineering (T-ASE), 2020.
 
 _Surgical Suture Thread Detection using a Model-free Approach in a Calibrated Stereo-visual System_<br>
 Bo Lu, Henry K. Chu, Kaicheng Huang, Jiewen Lai, Li Cheng<br>
-IEEE/ASME Transactions on Mechatronics (T-MECH), 2020
+IEEE/ASME Transactions on Mechatronics (T-MECH), 2020.
 
 _Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis_<br>
 Kaicheng Huang, Bo Lu, Henry K. Chu, Jiewen Lai<br>
-IEEE Transactions on Biomedical Circuits and Systems (T-BCAS), 2019
+IEEE Transactions on Biomedical Circuits and Systems (T-BCAS), 2019.
 
 _Vision-based Surgical Suture Looping through Trajectory Planning for Wound Suturing_<br>
 Bo Lu, Henry K. Chu, Kaicheng Huang, Li Cheng<br>
-IEEE Transactions on Automation Science and Engineering (T-ASE), 2018
+IEEE Transactions on Automation Science and Engineering (T-ASE), 2018.
 
 _Three-dimensional Cell Manipulation and Patterning using Dielectrophoresis via a Multi-layer Scaffold Structure_<br>
 Henry K. Chu, Zhijie Huan, James K. Mills, J. Yang, Dong Sun<br>
-Lab on a Chip. 2015
+Lab on a Chip. 2015.
+
+_Design and Characterization of a Conductive Nanostructured Polypyrrole-Polycaprolactone coated Magnesium/PLGA Composite for Tissue Engineering Scaffolds_<br>
+Haixia Liu, Ran Wang, Henry K. Chu, Dong Sun<br>
+Journal of Biomedical Materials Research Part A. 2015.
 
 _Automated parallel microassembly for MEMS application_<br>
 Henry K. Chu, James K. Mills, William L. Cleghorn<br>
@@ -62,19 +66,19 @@ Journal of Micromechanics and Microengineering. 2012.  <span style="color:red">(
 
 _Automated Folding of a Deformable Thin Object through Robot Manipulators_<br>
 Zhenxi Cui, Kaicheng Huang, Bo Lu, Henry K. Chu<br>
-IEEE International Conference on Intelligent Robots and Systems (IROS),  2020
+IEEE International Conference on Intelligent Robots and Systems (IROS), 2020.
 
 _Automated Single-Particle Micropatterning System using Dielectrophoresis_<br>
 Kaicheng Huang, Zhenxi Cui, Ihab Abu Ajamieh, Jiewen Lai, James K. Mills, Henry K. Chu<br>
-IEEE International Conference on Automation Science and Engineering (CASE), 2020
+IEEE International Conference on Automation Science and Engineering (CASE), 2020.
 
 _Toward Vision-based Adaptive Configuring of A Bidirectional Two-Segment Soft Continuum Manipulator_<br>
 Jiewen Lai, Kaicheng Huang, Bo Lu, Henry K. Chu<br>
-IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2020
+IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2020.
 
 _Three-Dimensional Localization of Needle Tip Immersed in Medium_<br>
 Zhenxi Cui, Kaicheng Huang, Bo Lu, Henry K. Chu<br>
-IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2019
+IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2019.
 
 _A Learning-based Inverse Kinematics Solver for a Multi-Segment Continuum Robot in Robot-Independent Mapping_<br>
 Jiewen Lai, Kaicheng Huang, Henry K. Chu<br>
@@ -82,19 +86,19 @@ IEEE International Conference on Robotics and Biomimetics (ROBIO), 2019. <span s
 
 _Automated Cell Patterning System with a Microchip using Dielectrophoresis_<br>
 Kaicheng Huang, Henry K. Chu, Bo Lu, Jiewen Lai, Li Cheng<br>
-IEEE Conference on Robotics and Automation (ICRA), 2019
+IEEE Conference on Robotics and Automation (ICRA), 2019.
 
 _Characterization of a Microchip Device for Cell Patterning via Negative Dielectrophoresis_<br>
 Kaicheng Huang, Henry K. Chu, Bo Lu, Li Cheng<br>
-IEEE Conference on Robotics and Biomimetics (ROBIO), 2018
+IEEE Conference on Robotics and Biomimetics (ROBIO), 2018.
 
 _Robotic Knot Tying Through A Spatial Trajectory with a Visual Servoing System_<br>
 Bo Lu, Henry K. Chu, Li Cheng<br>
-IEEE International Conference on Intelligent Robots and Systems (IROS), 2017
+IEEE International Conference on Intelligent Robots and Systems (IROS), 2017.
 
 _Dynamic Trajectory Planning for Robotic Knot Tying_<br>
 Bo Lu, Henry K. Chu, Li Cheng<br>
-IEEE International Conference on Real-time Computing and Robotics (RCAR), 2016
+IEEE International Conference on Real-time Computing and Robotics (RCAR), 2016.
 
 
 
