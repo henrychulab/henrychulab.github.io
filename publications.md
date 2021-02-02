@@ -5,19 +5,33 @@ permalink: /publication/
 
 <hr>
 
-### 2020
+
+### Journals
 
 _Reverse-engineering deep ReLU networks_<br>
 David Rolnick, Konrad Kording<br>
 ICML, 2020 ([Article](http://proceedings.mlr.press/v119/rolnick20a/rolnick20a.pdf))
 
-_Computer vision to automatically assess infant neuromotor risk_<br>
-Claire Chambers, Nidhi Seethapathi, Rachit Saluja, Helen Loeb, Samuel R Pierce, Daniel K Bogen, Laura Prosser, Michelle J Johnson, Konrad P Kording<br>
-IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2020 ([Article](https://ieeexplore.ieee.org/iel7/7333/9250399/09214853.pdf))
 
-_Probing the Effective Treatment Thresholds for Alteplase in Acute Ischemic Stroke With Regression Discontinuity Designs_<br>
-Andrew M Naidech, Patrick N Lawlor, Haolin Xu, Gregg C Fonarow, ..., Shyam Prabhakaran, Ioana Marinescu, Konrad P Kording<br>
-Frontiers in neurology, 2020 ([Article](https://www.frontiersin.org/articles/10.3389/fneur.2020.00961/full))
+
+
+
+### Conference Proceedings
+
+_Characterization of a Microchip Device for Cell Patterning via Negative Dielectrophoresis_<br>
+K. Huang, Henry K. Chu, Bo Lu, Li Cheng<br>
+IEEE Conference on Robotics and Biomimetics (ROBIO), 2018
+
+_Robotic knot tying through a spatial trajectory with a visual servoing system_<br>
+Bo Lu, Henry K. Chu, and Li Cheng<br>
+IEEE International Conference on Intelligent Robots and Systems (IROS), 2017
+
+_Dynamic trajectory planning for robotic knot tying_<br>
+Bo Lu, Henry K. Chu, Li Cheng<br>
+IEEE International Conference on Real-time Computing and Robotics (RCAR), 2016
+
+
+
 
 
 ### Copyright Notice
