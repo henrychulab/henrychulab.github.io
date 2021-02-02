@@ -25,7 +25,7 @@ Jiewen Lai, Kaicheng Huang, Bo Lu, Qingxiang Zhao, Henry K. Chu<br>
 IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. <span style="color:blue">(Revised and Resubmit)</span>.
 
 _Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers_<br>
-Kaicehng Huang, Zhenxi Cui, Jiewen Lai, B.o Lu , Henry K. Chu<br>
+Kaicehng Huang, Zhenxi Cui, Jiewen Lai, Bo Lu , Henry K. Chu<br>
 IEEE Transactions on Automation Science and Engineering (T-ASE), 2020. <span style="color:blue">(Revised and Resubmit)</span>.
 
 _Automated Embryo Manipulation and Rotation via Robotic nDEP-tweezers_<br>
@@ -83,7 +83,7 @@ Kaicheng Huang, Henry K. Chu, Bo Lu, Li Cheng<br>
 IEEE Conference on Robotics and Biomimetics (ROBIO), 2018
 
 _Robotic Knot Tying Through A Spatial Trajectory with a Visual Servoing System_<br>
-Bo Lu, Henry K. Chu, and Li Cheng<br>
+Bo Lu, Henry K. Chu, Li Cheng<br>
 IEEE International Conference on Intelligent Robots and Systems (IROS), 2017
 
 _Dynamic Trajectory Planning for Robotic Knot Tying_<br>
