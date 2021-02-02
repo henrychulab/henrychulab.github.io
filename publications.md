@@ -50,7 +50,7 @@ IEEE Transactions on Automation Science and Engineering (T-ASE), 2018.
 
 _Engineered Bone Scaffolds with Dielectrophoresis-based Patterning using 3D Printing_<br>
 Zhijie Huan, Henry K. Chu, Hongbo Liu, Jie Yang, Dong Sun<br>
-Biomedical microdevices. 2017.
+Biomedical Microdevices. 2017.
 
 _Three-dimensional Cell Manipulation and Patterning using Dielectrophoresis via a Multi-layer Scaffold Structure_<br>
 Henry K. Chu, Zhijie Huan, James K. Mills, J. Yang, Dong Sun<br>
