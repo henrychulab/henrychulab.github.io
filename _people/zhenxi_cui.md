@@ -1,6 +1,6 @@
 ---
 name: Zhenxi Cui
-position: PhD
+position: phd
 avatar: .jpeg
 joined: 2018
 ---
