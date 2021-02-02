@@ -8,6 +8,10 @@ permalink: /publication/
 
 ### Journals
 
+_Constrained Motion Planning of A Cable-Driven Soft Robot with Non-Constant Curvature Modeling_<br>
+Jiewen Lai, Qingxiang Zhao, Henry K. Chu
+IEEE Robotics and Automation Letter (R-AL). 2021. <span style="color:blue">(Preparing)</span>.
+
 _Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision_<br>
 Jiewen Lai, Bo Lu, Henry K. Chu<br>
 IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. <span style="color:blue">(Under Review)</span>.
@@ -54,7 +58,7 @@ _Automated Folding of a Deformable Thin Object through Robot Manipulators_<br>
 Zhenxi Cui, Kaicheng Huang, Bo Lu, Henry K. Chu<br>
 IEEE International Conference on Intelligent Robots and Systems (IROS),  2020
 
-_Automated Single-Particle Micropatterning System using Dielectrophoresis_
+_Automated Single-Particle Micropatterning System using Dielectrophoresis_<br>
 Kaicheng Huang, Zhenxi Cui, Ihab Abu Ajamieh, Jiewen Lai, James K. Mills, Henry K. Chu<br>
 IEEE International Conference on Automation Science and Engineering (CASE), 2020
 
@@ -68,7 +72,7 @@ IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2
 
 _A Learning-based Inverse Kinematics Solver for a Multi-Segment Continuum Robot in Robot-Independent Mapping_<br>
 Jiewen Lai, Kaicheng Huang, Henry K. Chu<br>
-IEEE International Conference on Robotics and Biomimetics (ROBIO), 2019  <span style="color:red">(Best Paper Finalist Award)</span>.
+IEEE International Conference on Robotics and Biomimetics (ROBIO), 2019.  <span style="color:red">(Best Paper Finalist Award)</span>.
 
 _Automated Cell Patterning System with a Microchip using Dielectrophoresis_<br>
 Kaicheng Huang, Henry K. Chu, Bo Lu, Jiewen Lai, Li Cheng<br>
