@@ -8,7 +8,7 @@ permalink: /publication/
 
 ### Journals
 
-_Constrained Motion Planning of A Cable-Driven Soft Robot with Non-Constant Curvature Modeling_<br>
+* _Constrained Motion Planning of A Cable-Driven Soft Robot with Non-Constant Curvature Modeling_<br>
 Jiewen Lai, Qingxiang Zhao, Henry K. Chu
 IEEE Robotics and Automation Letter (R-AL). 2021. <span style="color:blue">(Preparing)</span>.
 
