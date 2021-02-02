@@ -4,7 +4,7 @@ permalink: /people/
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
-{% assign role_array = "pi|postdoc|phd|msc|visiting|ug|alumni" | split: "|" %}
+{% assign role_array = "pi|postdoc|phd|msc|visiting|ug|alumni|other" | split: "|" %}
 
 {% for role in role_array %}
 
@@ -33,7 +33,7 @@ permalink: /people/
 {% endif %}
 </div>
 
-{% if role != 'alumni' %}
+{% if role == 'other' %}
 <div class="content list people">
   {% for profile in people_sorted %}
     {% if profile.position contains role %}
@@ -58,7 +58,7 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| [David Rolnick](http://kordinglab.com/people/david_rolnick/index.html) | Postdoc (2018 - 2020) | [Assistant Professor](http://www.davidrolnick.com), Computer Science, McGill University and Mila |
+| test| Postdoc (2018 - 2020) | Assistant Professor, Computer Science, McGill University |
 
 
 {% endif %}
