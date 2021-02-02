@@ -1,25 +1,19 @@
 ---
-name: Konrad Kording
+name: Henry K. Chu
 position: pi
-avatar: konrad_profile_3.jpg
-twitter: KordingLab
+avatar: henry.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Penn Integrated Knowledge Professor, University of Pennsylvania_<br>
-- _Science coach. Collaborator. Transdisciplinary optimist._
+- _Assistant Professor, The Hong Kong Polytechnic University, Hong Kong_<br>
+- _PhD, University of Toronto, Canada_<br>
+- _MASc, University of Toronto, Canada_<br>
+- _BEng, University of Waterloo, Canada_<br>
 
-<i class="fa fa-envelope-o"></i> `kording@upenn.edu`
+<i class="fa fa-envelope-o"></i> `henry.chu@polyu.edu.hk`
 
 **Office**<br>
-404B Richards, 3700 Hamilton Walk <br>
-Philadelphia, PA 19104
+FG, PolyU <br>
 
-[Konrad Kording](http://koerding.com/) runs his lab at the University of Pennsylvania.
-Konrad is interested in the question of how the brain solves the credit assignment problem and
-similarly how we should assign credit in the real world (through causality). In extension
-of this main thrust he is interested in applications of causality in biomedical research.
-Konrad has trained as student at ETH Zurich with Peter Konig, as postdoc at UCL London with Daniel
-Wolpert and at MIT with Josh Tenenbaum. After a decade at Northwestern University he is now
-PIK professor at UPenn.
+Dr. Henry Chu received his Bachelor’s degree in Mechanical Engineering (Mechatronics option) from the University of Waterloo, Canada, in 2005, and his MASc. and Ph.D. degrees in Mechanical and Industrial Engineering from the University of Toronto, Canada, in 2007 and 2011, respectively. He was the recipient of the top-ranked Canada Graduate Scholarship (CGS) (2009-2011) and the pre-approved candidate of the Industrial R&D Fellowships (IRDF) program (2012) from the Natural Sciences and Engineering Research Council of Canada (NSERC). Prior to joining the Hong Kong Polytechnic University, he was a Postdoctoral Fellow at the City University of Hong Kong through the International Transition Team Scheme (Office of the Provost).
