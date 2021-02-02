@@ -14,7 +14,7 @@ IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. <span style="color:blue">
 
 _Shape Estimation and Control of a Soft Continuum Robot under External Payloads_<br>
 Qingxiang Zhao, Jiewen Lai, Kaicheng Huang, X. Hu, Henry K. Chu<br>
-IEEE/ASME Transactions on Mechatronics (T-MECH). 2020. <span style="color:blue">(Revised and Resubmit)</span>.
+IEEE/ASME Transactions on Mechatronics (T-MECH). 2020. <span style="color:blue">(Major Revision)</span>.
 
 _Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation_<br>
 Jiewen Lai, Kaicheng Huang, Bo Lu, Qingxiang Zhao, Henry K. Chu<br>
