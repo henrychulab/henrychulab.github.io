@@ -8,11 +8,11 @@ permalink: /publication/
 
 ### Journals
 
--_Constrained Motion Planning of A Cable-Driven Soft Robot with Non-Constant Curvature Modeling_<br>
+_Constrained Motion Planning of A Cable-Driven Soft Robot with Non-Constant Curvature Modeling_<br>
 Jiewen Lai, Qingxiang Zhao, Henry K. Chu<br>
 IEEE Robotics and Automation Letter (R-AL). 2021. <span style="color:blue">(Preparing)</span>.
 
--_Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision_<br>
+_Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision_<br>
 Jiewen Lai, Bo Lu, Henry K. Chu<br>
 IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. <span style="color:blue">(Under Review)</span>.
 
@@ -20,7 +20,7 @@ IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. <span style="color:blue">
 Qingxiang Zhao, Jiewen Lai, Kaicheng Huang, X. Hu, Henry K. Chu<br>
 IEEE/ASME Transactions on Mechatronics (T-MECH). 2020. <span style="color:blue">(Major Revision)</span>.
 
--_Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation_<br>
+_Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation_<br>
 Jiewen Lai, Kaicheng Huang, Bo Lu, Qingxiang Zhao, Henry K. Chu<br>
 IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. <span style="color:blue">(Revised and Resubmit)</span>.
 
@@ -28,23 +28,23 @@ _Optimization of A Single-particle Micropatterning System with Robotic nDEP-Twee
 Kaicehng Huang, Zhenxi Cui, Jiewen Lai, B.o Lu , Henry K. Chu<br>
 IEEE Transactions on Automation Science and Engineering (T-ASE), 2020. <span style="color:blue">(Revised and Resubmit)</span>.
 
--_Automated Embryo Manipulation and Rotation via Robotic nDEP-tweezers_<br>
+_Automated Embryo Manipulation and Rotation via Robotic nDEP-tweezers_<br>
 Kaicheng Huang, Ihab Abu Ajamieh, Zhenxi Cui, Jiewen Lai, James K. Mills, Henry K. Chu<br>
 IEEE Transactions on Biomedical Engineering (T-BME), 2020.
 
--_A Learning Approach for Suture Thread Detection with Feature Enhancement and Segmentation for 3D Shape Reconstruction_<br>
+_A Learning Approach for Suture Thread Detection with Feature Enhancement and Segmentation for 3D Shape Reconstruction_<br>
 Bo Lu,  Xinbo Yu, Jiewen Lai, Kaicheng Huang, Keith C. C. Chan, Henry K. Chu<br>
 IEEE Transactions on Automation Science and Engineering (T-ASE), 2020
 
--_Surgical Suture Thread Detection using a Model-free Approach in a Calibrated Stereo-visual System_<br>
+_Surgical Suture Thread Detection using a Model-free Approach in a Calibrated Stereo-visual System_<br>
 Bo Lu, Henry K. Chu, Kaicheng Huang, Jiewen Lai, Li Cheng<br>
 IEEE/ASME Transactions on Mechatronics (T-MECH), 2020
 
--_Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis_<br>
+_Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis_<br>
 Kaicheng Huang, Bo Lu, Henry K. Chu, Jiewen Lai<br>
 IEEE Transactions on Biomedical Circuits and Systems (T-BCAS), 2019
 
--_Vision-based Surgical Suture Looping through Trajectory Planning for Wound Suturing_<br>
+_Vision-based Surgical Suture Looping through Trajectory Planning for Wound Suturing_<br>
 Bo Lu, Henry K. Chu, Kaicheng Huang, Li Cheng<br>
 IEEE Transactions on Automation Science and Engineering (T-ASE), 2018
 
