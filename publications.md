@@ -8,9 +8,9 @@ permalink: /publication/
 
 ### Journals
 
-_Reverse-engineering deep ReLU networks_<br>
-David Rolnick, Konrad Kording<br>
-ICML, 2020 ([Article](http://proceedings.mlr.press/v119/rolnick20a/rolnick20a.pdf))
+_Vision-based Surgical Suture Looping through Trajectory Planning for Wound Suturing_<br>
+Bo Lu, Henry K. Chu, Kaicheng Huang, Li Cheng<br>
+IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 16, no. 2, pp. 542-556, 2018
 
 
 
@@ -18,15 +18,31 @@ ICML, 2020 ([Article](http://proceedings.mlr.press/v119/rolnick20a/rolnick20a.pd
 
 ### Conference Proceedings
 
+_Automated Folding of a Deformable Thin Object through Robot Manipulators_<br>
+Zhenxi Cui, Kaicheng Huang, Bo Lu, Henry K. Chu<br>
+IEEE International Conference on Intelligent Robots and Systems (IROS),  2020
+
+_Toward Vision-based Adaptive Configuring of A Bidirectional Two-Segment Soft Continuum Manipulator_<br>
+Jiewen Lai, Kaicheng Huang, Bo Lu, Henry K. Chu<br>
+IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2020
+
+_Three-Dimensional Localization of Needle Tip Immersed in Medium_<br>
+Zhenxi Cui, Kaicheng Huang, Bo Lu, Henry K. Chu<br>
+IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2019
+
+_Automated Cell Patterning System with a Microchip using Dielectrophoresis_<br>
+Kaicheng Huang, Henry K. Chu, Bo Lu, Jiewen Lai, Li Cheng<br>
+IEEE Conference on Robotics and Automation (ICRA), 2019
+
 _Characterization of a Microchip Device for Cell Patterning via Negative Dielectrophoresis_<br>
-K. Huang, Henry K. Chu, Bo Lu, Li Cheng<br>
+Kaicheng Huang, Henry K. Chu, Bo Lu, Li Cheng<br>
 IEEE Conference on Robotics and Biomimetics (ROBIO), 2018
 
-_Robotic knot tying through a spatial trajectory with a visual servoing system_<br>
+_Robotic Knot Tying Through A Spatial Trajectory with a Visual Servoing System_<br>
 Bo Lu, Henry K. Chu, and Li Cheng<br>
 IEEE International Conference on Intelligent Robots and Systems (IROS), 2017
 
-_Dynamic trajectory planning for robotic knot tying_<br>
+_Dynamic Trajectory Planning for Robotic Knot Tying_<br>
 Bo Lu, Henry K. Chu, Li Cheng<br>
 IEEE International Conference on Real-time Computing and Robotics (RCAR), 2016
 
