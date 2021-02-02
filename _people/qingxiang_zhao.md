@@ -1,6 +1,6 @@
 ---
 name: Qingxiang Zhao
-position: PhD
+position: phd
 avatar: .jpeg
 joined: 2019
 ---
