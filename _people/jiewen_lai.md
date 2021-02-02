@@ -1,8 +1,8 @@
 ---
-name: Justin Brantley
+name: Sam Jiewen Lai
 position: postdoc
-avatar: Brantley-Photo-LowerRes.jpeg
-joined: 2020
+avatar: jpeg
+joined: 2021
 ---
  
  <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
