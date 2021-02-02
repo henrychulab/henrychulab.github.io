@@ -1,6 +1,6 @@
 ---
 name: Sam Jiewen Lai
-position: postdoc
+position: phd
 avatar: jpeg
 joined: 2021
 ---
