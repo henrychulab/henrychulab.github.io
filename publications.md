@@ -8,25 +8,33 @@ permalink: /publication/
 
 ### Journals
 
+_Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision_<br>
+Jiewen Lai, Bo Lu, Henry K. Chu<br>
+IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. <span style="color:blue">(Under Review)</span>.
+
 _Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation_<br>
-Jiewen Lai, Kaicheng Huang, Bo Lu, Qingxiang Zhao, Henry K. Chu_<br>
+Jiewen Lai, Kaicheng Huang, Bo Lu, Qingxiang Zhao, Henry K. Chu<br>
 IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. <span style="color:blue">(Under Review)</span>.
+
+_Automated Embryo Manipulation and Rotation via Robotic nDEP-tweezers_<br>
+Kaicheng Huang, Ihab Abu Ajamieh, Zhenxi Cui, Jiewen Lai, James K. Mills, Henry K. Chu<br>
+IEEE Transactions on Biomedical Engineering (T-BME), 2020.
 
 _A Learning Approach for Suture Thread Detection with Feature Enhancement and Segmentation for 3D Shape Reconstruction_<br>
 Bo Lu, Xinbo Yu, Henry K. Chu, Kaicheng Huang, Jiewen Lai, Li Cheng<br>
-IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 17, no. 2, pp. 858-870, 2020
+IEEE Transactions on Automation Science and Engineering (T-ASE), 2020
 
 _Surgical Suture Thread Detection using a Model-free Approach in a Calibrated Stereo-visual System_<br>
 Bo Lu, Henry K. Chu, Kaicheng Huang, Jiewen Lai, Li Cheng<br>
-IEEE/ASME Transactions on Mechatronics (T-MECH), vol. 25(2), 2020
+IEEE/ASME Transactions on Mechatronics (T-MECH), 2020
 
 _Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis_<br>
 Kaicheng Huang, Bo Lu, Henry K. Chu, Jiewen Lai<br>
-IEEE Transactions on Biomedical Circuits and Systems (T-BCAS), vol. 13. no. 5, pp. 1063-1074, 2019
+IEEE Transactions on Biomedical Circuits and Systems (T-BCAS), 2019
 
 _Vision-based Surgical Suture Looping through Trajectory Planning for Wound Suturing_<br>
 Bo Lu, Henry K. Chu, Kaicheng Huang, Li Cheng<br>
-IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 16, no. 2, pp. 542-556, 2018
+IEEE Transactions on Automation Science and Engineering (T-ASE), 2018
 
 
 
@@ -38,6 +46,10 @@ _Automated Folding of a Deformable Thin Object through Robot Manipulators_<br>
 Zhenxi Cui, Kaicheng Huang, Bo Lu, Henry K. Chu<br>
 IEEE International Conference on Intelligent Robots and Systems (IROS),  2020
 
+_Automated Single-Particle Micropatterning System using Dielectrophoresis_
+Kaicheng Huang, Zhenxi Cui, Ihab Abu Ajamieh, Jiewen Lai, James K. Mills, Henry K. Chu<br>
+IEEE International Conference on Automation Science and Engineering (CASE), 2020
+
 _Toward Vision-based Adaptive Configuring of A Bidirectional Two-Segment Soft Continuum Manipulator_<br>
 Jiewen Lai, Kaicheng Huang, Bo Lu, Henry K. Chu<br>
 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2020
@@ -45,6 +57,10 @@ IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2
 _Three-Dimensional Localization of Needle Tip Immersed in Medium_<br>
 Zhenxi Cui, Kaicheng Huang, Bo Lu, Henry K. Chu<br>
 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2019
+
+_A Learning-based Inverse Kinematics Solver for a Multi-Segment Continuum Robot in Robot-Independent Mapping_<br>
+Jiewen Lai, Kaicheng Huang, Henry K. Chu<br>
+IEEE International Conference on Robotics and Biomimetics (ROBIO), 2019  <span style="color:green">((Best Paper Finalist Award))</span>.
 
 _Automated Cell Patterning System with a Microchip using Dielectrophoresis_<br>
 Kaicheng Huang, Henry K. Chu, Bo Lu, Jiewen Lai, Li Cheng<br>
