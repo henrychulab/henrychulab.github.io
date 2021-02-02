@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording lab"
-title:              "Kording lab at University of Pennsylvania"
-description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab at the University of Pennsylvania, Philadelphia"
+name:               "Henry Lab"
+title:              "Henry Chu's at The Hong Kong Polytechnic University"
+description:        "-"
 
 
 # URL
-url:                http://kordinglab.com
+url:                http://henrychulab.github.io
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -30,10 +30,8 @@ nav:
     href:           "/publication"
   - name:           "people"
     href:           "/people"
-  - name:           "blog"
-    href:           "/blog"
-  - name:           "resources"
-    href:           "/resources"
+
+
 
 # Sass
 sass:
