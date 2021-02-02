@@ -22,10 +22,12 @@ nav:
     href:           "/"
   - name:           "about"
     href:           "/about"
-  - name:           "publications"
-    href:           "/publication"
+  - name:           "research"
+    href:           "/research"
   - name:           "people"
     href:           "/people"
+  - name:           "publications"
+    href:           "/publication"
 
 
 
