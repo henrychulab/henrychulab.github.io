@@ -60,7 +60,8 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| test| Postdoc (2018 - 2020) | Assistant Professor, Computer Science, McGill University |
+| Nan Xu | MSc  (2018) | PhD student, The University of Melbourne, Australia |
+| Qi Wang | MSc  (2019) | PhD student, University of Tübingen, Germany |
 
 
 {% endif %}
