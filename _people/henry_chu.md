@@ -14,6 +14,6 @@ avatar: henry.jpg
 <i class="fa fa-envelope-o"></i> `henry.chu@polyu.edu.hk`
 
 **Office**<br>
-FG, PolyU <br>
+FG624, PolyU <br>
 
 Dr. Henry Chu received his Bachelor’s degree in Mechanical Engineering (Mechatronics option) from the University of Waterloo, Canada, in 2005, and his MASc. and Ph.D. degrees in Mechanical and Industrial Engineering from the University of Toronto, Canada, in 2007 and 2011, respectively. He was the recipient of the top-ranked Canada Graduate Scholarship (CGS) (2009-2011) and the pre-approved candidate of the Industrial R&D Fellowships (IRDF) program (2012) from the Natural Sciences and Engineering Research Council of Canada (NSERC). Prior to joining the Hong Kong Polytechnic University, he was a Postdoctoral Fellow at the City University of Hong Kong through the International Transition Team Scheme (Office of the Provost).
