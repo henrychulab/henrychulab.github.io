@@ -8,6 +8,22 @@ permalink: /publication/
 
 ### Journals
 
+_Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation_<br>
+Jiewen Lai, Kaicheng Huang, Bo Lu, Qingxiang Zhao, Henry K. Chu_<br>
+IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. \textcolor{red}{(Under Review)}
+
+_A Learning Approach for Suture Thread Detection with Feature Enhancement and Segmentation for 3D Shape Reconstruction_<br>
+Bo Lu, Xinbo Yu, Henry K. Chu, Kaicheng Huang, Jiewen Lai, Li Cheng<br>
+IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 17, no. 2, pp. 858-870, 2020
+
+_Surgical Suture Thread Detection using a Model-free Approach in a Calibrated Stereo-visual System_<br>
+Bo Lu, Henry K. Chu, Kaicheng Huang, Jiewen Lai, Li Cheng<br>
+IEEE/ASME Transactions on Mechatronics (T-MECH), vol. 25(2), 2020
+
+_Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis_<br>
+Kaicheng Huang, Bo Lu, Henry K. Chu, Jiewen Lai<br>
+IEEE Transactions on Biomedical Circuits and Systems (T-BCAS), vol. 13. no. 5, pp. 1063-1074, 2019
+
 _Vision-based Surgical Suture Looping through Trajectory Planning for Wound Suturing_<br>
 Bo Lu, Henry K. Chu, Kaicheng Huang, Li Cheng<br>
 IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 16, no. 2, pp. 542-556, 2018
