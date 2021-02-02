@@ -53,7 +53,7 @@ Zhijie Huan, Henry K. Chu, Hongbo Liu, Jie Yang, Dong Sun<br>
 Biomedical Microdevices. 2017.
 
 _Three-dimensional Cell Manipulation and Patterning using Dielectrophoresis via a Multi-layer Scaffold Structure_<br>
-Henry K. Chu, Zhijie Huan, James K. Mills, J. Yang, Dong Sun<br>
+Henry K. Chu, Zhijie Huan, James K. Mills, Jie Yang, Dong Sun<br>
 Lab on a Chip. 2015.
 
 _Design and Characterization of a Conductive Nanostructured Polypyrrole-Polycaprolactone Coated Magnesium/PLGA Composite for Tissue Engineering Scaffolds_<br>
