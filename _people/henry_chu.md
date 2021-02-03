@@ -1,5 +1,5 @@
 ---
-name: Henry K. Chu
+name: Henry Kar Hang Chu
 position: pi
 avatar: henry.jpg
 ---
