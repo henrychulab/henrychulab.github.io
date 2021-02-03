@@ -12,7 +12,7 @@ joined: 2017
 - _BEng, Wuhan University of Science and Technology, China_<br>
 
 <i class="fa fa-envelope"></i> <a href="mailto:jw.lai@connect.polyu.hk">`jw.lai@connect.polyu.hk`</a><br>
-<i class="fa fa-trash-o"></i> [`samlaipolyu.github.io`](https://samlaipolyu.github.io)<br> 
+<i class="fa fa-code"></i> [`Sam's website`](https://samlaipolyu.github.io/)<br> 
 
 **Office**<br>
 EF313, PolyU<br>
