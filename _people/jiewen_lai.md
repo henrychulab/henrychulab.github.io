@@ -21,7 +21,7 @@ EF313, PolyU<br>
 Soft robotics, Surgical robots, Robot intelligence
 
 **Bio**<br>
-Sam joined our lab in September 2017 as an MPhil student, then became a PhD candidate since August 2018. Prior to that, he received the BEng degree in metallurgical engineering from Wuhan University of Science and Technology in 2016, and the MSc degree in mechanical and automation engineering from The Chinese University of Hong Kong in 2017 under the supervision of [Prof. Yun-Hui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/). He has been working on the full stack development of a soft robotic system for surgical blood suction.
+Sam joined our lab in September 2017 as an MPhil student, then became a PhD candidate since August 2018. Prior to that, he received the BEng degree in metallurgical engineering from Wuhan University of Science and Technology in 2016, and the MSc degree in mechanical and automation engineering from The Chinese University of Hong Kong in 2017 under the supervision of [Prof. Yun-Hui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/). Currently he is working on the full stack development of a soft robotic system for surgical blood suction.
 
 He also built this website.
 
