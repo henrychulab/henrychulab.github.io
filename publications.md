@@ -91,7 +91,7 @@ IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2
 
 _Three-Dimensional Localization of Needle Tip Immersed in Medium_<br>
 Zhenxi Cui, Kaicheng Huang, Bo Lu, Henry K. Chu<br>
-IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2019. [[DOI]](https://ieeexplore.ieee.org/document/8868776)[preprint](/preprint/cui_aim_2019.pdf)
+IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2019. [[DOI]](https://ieeexplore.ieee.org/document/8868776)[[preprint]](/preprint/cui_aim_2019.pdf)
 
 _A Learning-based Inverse Kinematics Solver for a Multi-Segment Continuum Robot in Robot-Independent Mapping_<br>
 Jiewen Lai, Kaicheng Huang, Henry K. Chu<br>
