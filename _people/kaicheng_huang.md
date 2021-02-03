@@ -21,4 +21,4 @@ Micro-manipulation, Nano-manipulation, Cell patterning, Automation
 **Bio**<br>
 Kaicheng joined our lab as a PhD student in September 2016. As the second PhD student of our lab, he got his PhD degree in September 2020. During his PhD study, his research interests include automated cell patterning with dielectrophoresis and micro-manipulation. He also joined the [Laboratory for Nonlinear Systems Control](https://nonlinear.mie.utoronto.ca/) at University of Toronto for 4 months in 2019. Prior to that, he received his BEng degree from the Department of Automation at Shenzhen University in 2014, and MSc degree in mechanical and automation engineering from The Chinese University of Hong Kong in 2015. 
 
-He is currently a Postdoctoral fellow at the University of Hong Kong and working towards the nano-manipulation via AFM.
+He is currently a Postdoctoral fellow at the University of Hong Kong, working with [Prof. Ning Xi](https://www.imse.hku.hk/people/n-xi). Recently he is working on the nano-manipulation via AFM.
