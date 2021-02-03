@@ -17,4 +17,4 @@ Our group encompasses researchers with expertise in mechanical, electrical, biom
 
 ### Collaborate Organizations
 
-<img src="/images/others/uoft.png" width="200"/><img src="/images/others/cuhk.png" width="100"/><img src="/images/others/cityu.png" width="100"/>
+<img src="/images/others/ut.png" width="200"/><img src="/images/others/cuhk.png" width="100"/><img src="/images/others/cityu.png" width="100"/>
