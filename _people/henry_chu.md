@@ -1,7 +1,7 @@
 ---
 name: Henry Kar Hang Chu
 position: pi
-avatar: henry.jpg
+avatar: henry.png
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
