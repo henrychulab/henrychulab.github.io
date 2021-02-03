@@ -8,7 +8,7 @@ joined: 2021
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 - _PhD student, The Hong Kong Polytechnic University, Hong Kong_<br>
-- _MSc, The Hong Kong University of Science Technology, Hong Kong_<br>
+- _MSc, The Hong Kong University of Science and Technology, Hong Kong_<br>
 - _BEng, Beijing University of Chemical Technology, China_<br>
 
 <i class="fa fa-envelope"></i> <a href="mailto:20113747R@connect.polyu.hk">`20113747R@connect.polyu.hk`</a><br>
