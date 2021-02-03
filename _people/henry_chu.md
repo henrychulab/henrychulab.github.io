@@ -6,13 +6,12 @@ avatar: henry.jpg
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Assistant Professor, The Hong Kong Polytechnic University, Hong Kong_<br>
+- _[Assistant Professor](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/), The Hong Kong Polytechnic University, Hong Kong_<br>
 - _PhD, University of Toronto, Canada_<br>
 - _MASc, University of Toronto, Canada_<br>
 - _BASc, University of Waterloo, Canada_<br>
 
-<i class="fa fa-envelope-o"></i> `henry.chu@polyu.edu.hk`
-
+<i class="fa fa-envelope-o"></i> `henry.chu@polyu.edu.hk`<br>
 <i class="fa fa-phone"></i> `2766-6662`
 
 **Office**<br>
