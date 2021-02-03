@@ -8,13 +8,13 @@ permalink: /publication/
 
 ### Journals
 
-_Constrained Motion Planning of A Cable-Driven Soft Robot with Non-Constant Curvature Modeling_<br>
+- _Constrained Motion Planning of A Cable-Driven Soft Robot with Non-Constant Curvature Modeling_<br>
 Jiewen Lai, Qingxiang Zhao, Henry K. Chu<br>
-IEEE Robotics and Automation Letter (R-AL). 2021. <span style="color:blue">(Preparing)</span>.
+IEEE Robotics and Automation Letter (R-AL). 2021. <span style="color:blue">(Preparing)</span>.<br>
 
-_Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision_<br>
+- _Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision_<br>
 Jiewen Lai, Bo Lu, Henry K. Chu<br>
-IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. <span style="color:blue">(Under Review)</span>.
+IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. <span style="color:blue">(Under Review)</span>.<br>
 
 _Shape Estimation and Control of a Soft Continuum Robot under External Payloads_<br>
 Qingxiang Zhao, Jiewen Lai, Kaicheng Huang, Xiaobing Hu, Henry K. Chu<br>
