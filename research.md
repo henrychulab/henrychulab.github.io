@@ -5,5 +5,20 @@ permalink: /research/
 
 <hr>
 
-### 2020
 
+#### Robotic Surgical Knot Tying
+
+text.
+
+
+#### Cell Patterning using DEP
+
+text.
+
+#### Soft Robotics
+
+text.
+
+#### Robot Intelligence
+
+text.
