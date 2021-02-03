@@ -13,6 +13,7 @@ Our lab focus on developing the principles and tools needed for the automation o
 
 Our group encompasses researchers with expertise in mechanical, electrical, biomedical engineering, and computer science.
 
+<hr>
 
 ### Collaborate Organizations
 
