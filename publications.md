@@ -64,7 +64,7 @@ Journal of Biomedical Materials Research Part A. 2015.
 
 _Automated Parallel Microassembly for MEMS Application_<br>
 Henry K. Chu, James K. Mills, William L. Cleghorn<br>
-Journal of Micromechanics and Microengineering. 2012.  <span style="color:red">[IOP Select Article]</span>.
+Journal of Micromechanics and Microengineering. 2012. [[DOI]](https://iopscience.iop.org/article/10.1088/0960-1317/22/3/035017)[[preprint]](/preprint/chu_jmm_2012.pdf)<span style="color:red">[IOP Select Article]</span>.
 
 
 
