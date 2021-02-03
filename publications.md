@@ -79,11 +79,11 @@ IEEE International Conference on Intelligent Robots and Systems (IROS), 2020. [[
 
 _Automated Folding of a Deformable Thin Object through Robot Manipulators_<br>
 Zhenxi Cui, Kaicheng Huang, Bo Lu, Henry K. Chu<br>
-IEEE International Conference on Intelligent Robots and Systems (IROS), 2020.
+IEEE International Conference on Intelligent Robots and Systems (IROS), 2020. [[preprint]](http://ras.papercept.net/images/temp/IROS/files/1635.pdf)
 
-_Automated Single-Particle Micropatterning System using Dielectrophoresis_<br>
+_Automated Single-microparticle Patterning System for Micro-analytics_<br>
 Kaicheng Huang, Zhenxi Cui, Ihab Abu Ajamieh, Jiewen Lai, James K. Mills, Henry K. Chu<br>
-IEEE International Conference on Automation Science and Engineering (CASE), 2020.
+IEEE International Conference on Automation Science and Engineering (CASE), 2020. [[DOI]](https://ieeexplore.ieee.org/document/9216820)[preprint](/preprint/huang_case_2020.pdf)
 
 _Toward Vision-based Adaptive Configuring of A Bidirectional Two-Segment Soft Continuum Manipulator_<br>
 Jiewen Lai, Kaicheng Huang, Bo Lu, Henry K. Chu<br>
