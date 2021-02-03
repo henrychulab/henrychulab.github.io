@@ -87,7 +87,7 @@ IEEE International Conference on Automation Science and Engineering (CASE), 2020
 
 _Toward Vision-based Adaptive Configuring of A Bidirectional Two-Segment Soft Continuum Manipulator_<br>
 Jiewen Lai, Kaicheng Huang, Bo Lu, Henry K. Chu<br>
-IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2020.
+IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2020. [[DOI]](https://ieeexplore.ieee.org/document/9158975)[[preprint]](/preprint/lai_aim_2020.pdf)
 
 _Three-Dimensional Localization of Needle Tip Immersed in Medium_<br>
 Zhenxi Cui, Kaicheng Huang, Bo Lu, Henry K. Chu<br>
