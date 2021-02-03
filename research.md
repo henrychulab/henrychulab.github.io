@@ -3,7 +3,6 @@ title: Research
 permalink: /research/
 ---
 
-<hr>
 
 
 #### Robotic Surgical Knot Tying
