@@ -13,7 +13,7 @@ avatar: henry.jpg
 
 <i class="fa fa-envelope-o"></i> `henry.chu@polyu.edu.hk`
 
-<i class="fa fa-phone-o"></i> `2766-6662`
+<i class="fa fa-phone"></i> `2766-6662`
 
 **Office**<br>
 FG624, PolyU<br>
