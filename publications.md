@@ -52,7 +52,7 @@ Biomedical Microdevices. 2017.
 
 _Characterization of a Honeycomb-Like Scaffold With Dielectrophoresis-Based Patterning for Tissue Engineering_<br>
 Zhijie Huan, Henry K. Chu, Jie Yang, Dong Sun<br>
-IEEE Transactions on Biomedical Engineering (T-BME), 2017. [[DOI]](https://ieeexplore.ieee.org/document/7482836)[[preprint]](/preprint/huan_tbme_2017)
+IEEE Transactions on Biomedical Engineering (T-BME), 2017. [[DOI]](https://ieeexplore.ieee.org/document/7482836)[[preprint]](/preprint/huan_tbme_2017.pdf)
 
 _Three-dimensional Cell Manipulation and Patterning using Dielectrophoresis via a Multi-layer Scaffold Structure_<br>
 Henry K. Chu, Zhijie Huan, James K. Mills, Jie Yang, Dong Sun<br>
