@@ -91,27 +91,27 @@ IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2
 
 _Three-Dimensional Localization of Needle Tip Immersed in Medium_<br>
 Zhenxi Cui, Kaicheng Huang, Bo Lu, Henry K. Chu<br>
-IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2019.
+IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2019. [[DOI]](https://ieeexplore.ieee.org/document/8868776)[preprint](/preprint/cui_aim_2019.pdf)
 
 _A Learning-based Inverse Kinematics Solver for a Multi-Segment Continuum Robot in Robot-Independent Mapping_<br>
 Jiewen Lai, Kaicheng Huang, Henry K. Chu<br>
-IEEE International Conference on Robotics and Biomimetics (ROBIO), 2019. <span style="color:red">[Best Paper Finalist Award]</span>.
+IEEE International Conference on Robotics and Biomimetics (ROBIO), 2019. [[DOI]](https://ieeexplore.ieee.org/document/8961669)[[preprint]](/preprint/lai_robio_2019.pdf)<span style="color:red">[[Best Paper Finalist Award]](https://research.polyu.edu.hk/en/prizes/best-paper-finalist)</span>.
 
 _Automated Cell Patterning System with a Microchip using Dielectrophoresis_<br>
 Kaicheng Huang, Henry K. Chu, Bo Lu, Jiewen Lai, Li Cheng<br>
-IEEE Conference on Robotics and Automation (ICRA), 2019.
+IEEE Conference on Robotics and Automation (ICRA), 2019. [[DOI]](https://ieeexplore.ieee.org/document/8794177)[[preprint]](/preprint/huang_icra_2019.pdf)
 
 _Characterization of a Microchip Device for Cell Patterning via Negative Dielectrophoresis_<br>
 Kaicheng Huang, Henry K. Chu, Bo Lu, Li Cheng<br>
-IEEE Conference on Robotics and Biomimetics (ROBIO), 2018.
+IEEE Conference on Robotics and Biomimetics (ROBIO), 2018. [[DOI]](https://ieeexplore.ieee.org/document/8665210)[[preprint]](/preprint/huang_robio_2018.pdf)
 
 _Robotic Knot Tying Through A Spatial Trajectory with a Visual Servoing System_<br>
 Bo Lu, Henry K. Chu, Li Cheng<br>
-IEEE International Conference on Intelligent Robots and Systems (IROS), 2017.
+IEEE International Conference on Intelligent Robots and Systems (IROS), 2017. [[DOI]](https://ieeexplore.ieee.org/document/8206461)[[preprint]](/preprint/lu_iros_2017.pdf)
 
 _Dynamic Trajectory Planning for Robotic Knot Tying_<br>
 Bo Lu, Henry K. Chu, Li Cheng<br>
-IEEE International Conference on Real-time Computing and Robotics (RCAR), 2016.
+IEEE International Conference on Real-time Computing and Robotics (RCAR), 2016. [[DOI]](https://ieeexplore.ieee.org/document/7784022)[[preprint]](/preprint/lu_rcar_2016.pdf)
 
 
 
