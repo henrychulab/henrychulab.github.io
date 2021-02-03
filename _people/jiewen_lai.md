@@ -21,9 +21,9 @@ EF313, PolyU<br>
 Soft robotics, Surgical robots, Robot intelligence
 
 **Bio**<br>
-Sam joined our lab in September 2017 as an MPhil student, then became a PhD candidate since August 2018. His research interests include soft/continuum robots in surgical application, robot development, and robot intelligence. Sam received his BEng degree in metallurgical engineering from Wuhan University of Science and Technology in 2016, and the MSc degree in mechanical and automation engineering from The Chinese University of Hong Kong in 2017. He has been working on the full stack development of a soft robotic system for surgical blood suction. Sam workouts a lot, he can bench 220 lbs for 10 reps.
+Sam joined our lab in September 2017 as an MPhil student, then became a PhD candidate since August 2018. His research interests include soft/continuum robots in surgical application, robot development, and robot intelligence. Sam received his BEng degree in metallurgical engineering from Wuhan University of Science and Technology in 2016, and the MSc degree in mechanical and automation engineering from The Chinese University of Hong Kong in 2017. He has been working on the full stack development of a soft robotic system for surgical blood suction. 
 
-He also built this website.
+Sam workouts a lot, he can bench 220 lbs for 10 reps. He also built this website.
 
 
 
