@@ -14,26 +14,6 @@ Our lab focus on developing the principles and tools needed for the automation o
 Our group encompasses researchers with expertise in mechanical, electrical, biomedical engineering, and computer science.
 
 
-### Research
-
-#### Robotic Surgical Knot Tying
-
-text.
-
-
-#### Cell Patterning using DEP
-
-text.
-
-#### Soft Robotics
-
-text.
-
-#### Robot Intelligence
-
-text.
-
-
 ### Collaborate Organizations
 
 <img src="/images/others/curi.png" width="250"><img src="/images/others/uoft.png" width="200">
