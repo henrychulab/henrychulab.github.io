@@ -23,7 +23,7 @@ Robotics, Artificial intelligence, Signal processing
 **Bio**<br>
 Chuyang joined our lab as a PhD student in January, 2021. Before joining PolyU, he received the bachelor’s degree from Beijing University of Chemical Technology in 2019, and the MSc degree from The Hong Kong University of Science and Technology in 2021. During his master study in UST, he also worked as a research assistant in CUHK(SZ).
 
-He will be working on the sensorimotor control of industrial robot arm.
+Currently he is working on the sensorimotor control of industrial robot arm.
 
 
 
