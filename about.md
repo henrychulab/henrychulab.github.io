@@ -15,20 +15,21 @@ Our group encompasses researchers with expertise in mechanical, electrical, biom
 
 
 ### Research
-#### Robotic Surgical Knot Tying
+
+#### - Robotic Surgical Knot Tying
 
 text.
 
 
-#### Cell Patterning using DEP
+#### - Cell Patterning using DEP
 
 text.
 
-#### Soft Robotics
+#### - Soft Robotics
 
 text.
 
-#### Robot Intelligence
+#### - Robot Intelligence
 
 text.
 
