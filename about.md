@@ -19,5 +19,18 @@ Our group encompasses researchers with expertise in mechanical, electrical, biom
 
 
 
-<img src="/images/others/uoft.png" width="200"/><img src="/images/others/cuhk.png" width="100"/><img src="/images/others/cityu.png" width="100"/>
 
+
+<table>
+<tr>
+<td>
+<a><img src="/images/others/uoft.png" width="200"/></a>
+</td>
+<td>
+<a><img src="/images/others/cuhk.png" width="100"/></a>
+</td>
+<td>
+<a><img src="/images/others/cityu.png" width="100"/></a>
+</td>
+</tr>
+</table>
