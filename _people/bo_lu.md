@@ -1,7 +1,7 @@
 ---
 name: Bo Lu
 position: alumni
-avatar: .jpeg
+avatar: bo.jpg
 joined: 2015
 ---
  
