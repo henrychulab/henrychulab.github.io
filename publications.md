@@ -73,6 +73,10 @@ Journal of Micromechanics and Microengineering. 2012. [[DOI]](https://iopscience
 
 ### Conference Proceedings
 
+_A Learning-Driven Framework with Spatial Optimization For Surgical Suture Thread Reconstruction and Autonomous Grasping Under Multiple Topologies and Environmental Noises_<br>
+Bo Lu, Wei Chen, Yue-Ming Jin, Dandan Zhang, Qi Dou, Henry K. Chu, Pheng-Ann Heng, Yun-Hui Liu<br>
+IEEE International Conference on Intelligent Robots and Systems (IROS), 2020. [[preprint]](https://arxiv.org/abs/2007.00920)
+
 _Automated Folding of a Deformable Thin Object through Robot Manipulators_<br>
 Zhenxi Cui, Kaicheng Huang, Bo Lu, Henry K. Chu<br>
 IEEE International Conference on Intelligent Robots and Systems (IROS), 2020.
