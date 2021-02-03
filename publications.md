@@ -64,6 +64,9 @@ Journal of Micromechanics and Microengineering. 2012.  <span style="color:red">(
 
 
 
+<hr>
+
+
 ### Conference Proceedings
 
 _Automated Folding of a Deformable Thin Object through Robot Manipulators_<br>
