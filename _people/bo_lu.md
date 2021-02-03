@@ -15,7 +15,7 @@ joined: 2015
 
 <i class="fa fa-envelope"></i> <a href="mailto:bolu@cuhk.edu.hk">`bolu@cuhk.edu.hk`</a><br>
 <i class="fa fa-code"></i> [`Bo's website`](https://lu-bo.github.io/)<br> 
-<i class="fa fa-google-scholar-square fa-3x">`Bo Lu`</i><br>
+<i class="fa fa-google-scholar-square fa-3x"></i>[`Bo Lu`](https://scholar.google.com/citations?user=ENPRTpcAAAAJ&hl=en&oi=sra)<br>
 
 **Area of Interest**<br>
 Medical robotics, Computer vision, Vision-based manipulation, Automation and control, Trajectory plan, Surgical tool detection, Surgical procedure analysis and understanding.
