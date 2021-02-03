@@ -14,7 +14,7 @@ joined: 2015
 - _BEng, Dalian University of Technology, China_<br>
 
 <i class="fa fa-envelope"></i> <a href="mailto:bolu@cuhk.edu.hk">`bolu@cuhk.edu.hk`</a><br>
-<i class="fa fa-code"></i> [`Bo's website`](https://https://lu-bo.github.io)<br> 
+<i class="fa fa-code"></i> [`Bo's website`](https://lu-bo.github.io/)<br> 
 
 **Area of Interest**<br>
 Medical robotics, Computer vision, Vision-based manipulation, Automation and control, Trajectory plan, Surgical tool detection, Surgical procedure analysis and understanding.
