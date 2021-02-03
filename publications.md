@@ -40,7 +40,7 @@ IEEE/ASME Transactions on Mechatronics (T-MECH), 2020.
 
 _Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis_<br>
 Kaicheng Huang, Bo Lu, Henry K. Chu, Jiewen Lai<br>
-IEEE Transactions on Biomedical Circuits and Systems (T-BCAS), 2019.
+IEEE Transactions on Biomedical Circuits and Systems (T-BCS), 2019.
 
 _Vision-based Surgical Suture Looping through Trajectory Planning for Wound Suturing_<br>
 Bo Lu, Henry K. Chu, Kaicheng Huang, Li Cheng<br>
@@ -49,6 +49,10 @@ IEEE Transactions on Automation Science and Engineering (T-ASE), 2018.
 _Engineered Bone Scaffolds with Dielectrophoresis-based Patterning using 3D Printing_<br>
 Zhijie Huan, Henry K. Chu, Hongbo Liu, Jie Yang, Dong Sun<br>
 Biomedical Microdevices. 2017.
+
+_Characterization of a Honeycomb-Like Scaffold With Dielectrophoresis-Based Patterning for Tissue Engineering_<br>
+Zhijie Huan, Henry K. Chu, Jie Yang, Dong Sun<br>
+IEEE Transactions on Biomedical Engineering (T-BME), 2017. [[DOI]](https://ieeexplore.ieee.org/document/7482836)[[preprint]](/preprint/huan_tbme_2017)
 
 _Three-dimensional Cell Manipulation and Patterning using Dielectrophoresis via a Multi-layer Scaffold Structure_<br>
 Henry K. Chu, Zhijie Huan, James K. Mills, Jie Yang, Dong Sun<br>
