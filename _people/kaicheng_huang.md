@@ -1,7 +1,7 @@
 ---
 name: Thomas Kaicheng Huang
 position: alumni
-avatar: .jpeg
+avatar: kaicheng.jpeg
 joined: 2016
 ---
  
