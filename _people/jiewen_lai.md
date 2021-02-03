@@ -11,7 +11,7 @@ joined: 2017
 - _MSc, The Chinese University of Hong Kong, Hong Kong_<br>
 - _BEng, Wuhan University of Science and Technology, China_<br>
 
-<a href="mailto:jw.lai@connect.polyu.hk"><i class="fa fa-envelope"></i> `jw.lai@connect.polyu.hk`</a><br>
+<i class="fa fa-envelope"></i> <a href="mailto:jw.lai@connect.polyu.hk">`jw.lai@connect.polyu.hk`</a><br>
 <i class="fa fa-trash-o"></i> [`samlaipolyu.github.io`](https://samlaipolyu.github.io)<br> 
 
 **Office**<br>
