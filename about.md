@@ -34,8 +34,8 @@ text.
 
 
 ### Collaborate Organizations
-![](/images/others/curi.png)
-![](/images/others/uoft.jpg)
+![](/images/others/curi.png){width=50%} 
+![](/images/others/uoft.jpg){width=50%}
 
 
 
