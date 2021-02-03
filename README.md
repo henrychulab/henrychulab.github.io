@@ -1,6 +1,6 @@
-# Kording lab page
+# Henry Lab
 
-This is repository for [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
+We use Jekyll to run our Github page. This page is adopted and customized from [Kording lab page](http://kordinglab.com/).
 
 ## Run the page locally using Jekyll
 
@@ -23,9 +23,9 @@ date. Each post can be written in markdown format. You just have to state header
 
 ``` markdown
 ---
-title: Summer School in Computational Sensory-Motor Neuroscience (CoSMo)
-description: all links to CoSMo summer school in computational neuroscience materials
-categories: scientists
+title: XXX workshop
+description: A robotics workshop
+categories: discussion
 ---
 ```
 
@@ -37,7 +37,7 @@ We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can cho
 
 - **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo.
 
-The changes will take approximately half a minute to render. You can see the new posts or changes on [kordinglab.com](http://kordinglab.github.io/)!
+The changes will take approximately half a minute to render. You can see the new posts or changes on the [website](http://henrychulab.github.io/)!
 
 ### Add yourself
 
@@ -45,20 +45,20 @@ You can add yourself to the page in `_people` folder just create file name `<fir
 
 ``` markdown
 ---
-name: Eva Dyer
+name: Donald J. Trump
 position: postdoc
-avatar: eva.jpg
+avatar: trump.jpg
 twitter:
-joined: 2014
+joined: 2016
 ---
 ```
 
 If you don't have information, just leave it blank. The avatar will bring photo from `images/people` folder and display it on people page. 
-For lab position, you can choose position from 4 classes including `postdoc`, `gradstudent`, `visiting`, `others` (so called Honorary members). Position will put you into section that you choose.
+For lab position, you can choose position from several classes including `postdoc`, `phd`, `msc`, `visiting`, `ug`, `alumni`, and `others`. Position will put you into section that you choose.
 
 ### Add new publications
 
-All publications from the lab are located in `publications.md`. Please upload new publication on your own!
+All publications from the lab are located in `publications.md`. Please upload new publication on your own with the unified format!
 
 ### Add news
 
