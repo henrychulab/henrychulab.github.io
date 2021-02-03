@@ -11,7 +11,7 @@ avatar: henry.jpg
 - _MASc, University of Toronto, Canada_<br>
 - _BASc, University of Waterloo, Canada_<br>
 
-<i class="fa fa-envelope"></i> `henry.chu@polyu.edu.hk`<br>
+<i class="fa fa-envelope"></i> <a href="mailto:henry.chu@polyu.edu.hk">`henry.chu@polyu.edu.hk`</a><br>
 <i class="fa fa-phone"></i> `2766-6662`
 
 **Office**<br>
