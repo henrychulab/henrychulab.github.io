@@ -56,11 +56,11 @@ IEEE Transactions on Biomedical Engineering (T-BME), 2017. [[DOI]](https://ieeex
 
 _Three-dimensional Cell Manipulation and Patterning using Dielectrophoresis via a Multi-layer Scaffold Structure_<br>
 Henry K. Chu, Zhijie Huan, James K. Mills, Jie Yang, Dong Sun<br>
-Lab on a Chip. 2015.
+Lab on a Chip. 2015. [[DOI]](https://pubs.rsc.org/en/content/articlelanding/2015/lc/c4lc01247j#!divAbstract)[[preprint]](/preprint/chu_loc_2014.pdf)
 
 _Design and Characterization of a Conductive Nanostructured Polypyrrole-Polycaprolactone Coated Magnesium/PLGA Composite for Tissue Engineering Scaffolds_<br>
 Haixia Liu, Ran Wang, Henry K. Chu, Dong Sun<br>
-Journal of Biomedical Materials Research Part A. 2015.
+Journal of Biomedical Materials Research Part A. 2015. [[DOI]](https://onlinelibrary.wiley.com/doi/full/10.1002/jbm.a.35428)[[preprint]](/preprint/liu_jbm_2015.pdf)
 
 _Automated Parallel Microassembly for MEMS Application_<br>
 Henry K. Chu, James K. Mills, William L. Cleghorn<br>
