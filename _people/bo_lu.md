@@ -23,3 +23,7 @@ Medical robotics, Computer vision, Vision-based manipulation, Automation and con
 Bo joined our lab as the first PhD student back in 2015. He received his PhD from PolyU in 2019. During his PhD study, he took the Winter School Programme on Medical Robotics at Hamlyn Center, Imperial Colleage London in 2017. Before joining our lab, he received the MSc degree under the supervised of [Prof. Zhongqing Su](https://www.polyu.edu.hk/me/people/academic-teaching-staff/su-zhong-qing-prof/) at PolyU, and BEng degree at Dalian University of Technology.
 
 He is currently a Postdoctoral fellow working with [Prof. Yunhui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/) at the [CUHK T Stone Robotics Institute](http://ri.cuhk.edu.hk/) of The Chinese University of Hong Kong.
+
+
+
+
