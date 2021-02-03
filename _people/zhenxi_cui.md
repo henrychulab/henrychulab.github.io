@@ -1,7 +1,7 @@
 ---
-name: Zhenxi Cui
+name: Nathan Zhenxi Cui
 position: phd
-avatar: .jpeg
+avatar: nathan.jpeg
 joined: 2018
 ---
  
