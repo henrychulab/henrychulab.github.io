@@ -4,7 +4,7 @@ permalink: /publication/
 ---
 
 
-### Journals
+### Selected Journals
 
 _Constrained Motion Planning of A Cable-Driven Soft Robot with Non-Constant Curvature Modeling_<br>
 Jiewen Lai, Qingxiang Zhao, Henry K. Chu<br>
@@ -114,6 +114,21 @@ Bo Lu, Henry K. Chu, Li Cheng<br>
 IEEE International Conference on Real-time Computing and Robotics (RCAR), 2016. [[DOI]](https://ieeexplore.ieee.org/document/7784022)[[preprint]](/preprint/lu_rcar_2016.pdf)
 
 
+### Workshops, Posters, & Competitions
+
+_A Soft Pipe-Climbing Robot_<br>
+Qingxiang Zhao, Henry K. Chu<br>
+The 6th PolyU Mechanical Engineering Research Presentation Competition, PolyU, Hong Kong. 2020. [[2nd Runner-Up Award]](/image/others/polyu_poster_2nd.png)
+
+
+_Collision-Free Approach for Multi-Segment Continuum Robots by Self-Motion Control in SE(2)_<br>
+Jiewen Lai, Henry K. Chu<br>
+The 9th East Asia Mechanical and Aerospace Engineering Workshop (EMAEW), Korea University, Korea. 2019.
+
+
+_A Novel Wire Driven Soft Robot Manipulator with Visual Servoing Control_<br>
+Jiewen Lai, Henry K. Chu<br>
+The 5th PolyU Mechanical Engineering Research Presentation Competition, PolyU, Hong Kong. 2018.
 
 
 
