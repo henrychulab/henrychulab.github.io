@@ -1,1 +1,12 @@
 
+# example slider
+- selector: example_slider
+  captions: true
+  images:
+    - src: /image/people/kaicheng.jpg
+      alt: image one
+    - src: /image/people/mike.jpg
+      alt: image two
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
