@@ -20,6 +20,6 @@ Mobile robot, CAD, Image processing.
 
 
 **Bio**<br>
-Zhiyi joined our lab in 2019 as a dissertation-based MSc student. He is the awardee of PolyU ME Dissertation Scholarship. Before joining PolyU, he received his BEng degree in mechanical design, manufacturing & automation (National Excellent Engineer Project) from Xi’an Technological University. During his undergraduate study, he has been a principal member of a national college student innovation program, involving a number of robotic competitions.
+Zhiyi joined our lab in 2019 as a MSc student with dissertation option. He is the awardee of PolyU ME Dissertation Scholarship. Before joining PolyU, he received his BEng degree in mechanical design, manufacturing & automation (National Excellent Engineer Project) from Xi’an Technological University. During his undergraduate study, he has been a principal member of a national college student innovation program, involving a number of robotic competitions.
 
 He is now working with Qingxiang and developing a novel peumatic pipe-inspection soft robot.
