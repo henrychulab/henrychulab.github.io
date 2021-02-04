@@ -20,5 +20,5 @@ Our group encompasses researchers with expertise in mechanical, electrical, biom
 
 - [Laboratory for Nonlinear Systems Control](https://nonlinear.mie.utoronto.ca/), University of Toronto<br>
 - [CUHK T Stone Robotics Institute](http://ri.cuhk.edu.hk/), The Chinese University of Hong Kong<br>
-- [Center for Robotics and Automation](http://www.cityu.edu.hk/cra/), City University of Hong Kong
+- [Center for Robotics and Automation](http://www.cityu.edu.hk/cra/), City University of Hong Kong<br>
 
