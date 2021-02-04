@@ -3,6 +3,94 @@ layout: default
 ---
 
 
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<title>webpage</title>
+	</head>
+	<body>
+		<div id="slide_show">
+			<figure>
+				<img src="/images/others/large_cell_pattern.png">
+				<img src="/images/others/large_cell_pattern.png">
+				<img src="/images/others/large_cell_pattern.png">
+			</figure>
+		</div>
+	</body>
+</html>
+
+@keyframes slide_show{
+	0%{
+		left: 0;
+	}
+	20%{
+		left: 0;
+	}
+	30%{
+		left: -100%;
+	}
+	40%{
+		left: -100%
+	}
+	50%{
+		left: -200%;
+	}
+	60%{
+		left: -200%;
+	}
+	70%{
+		left: -300%
+	}
+	80%{
+		left: -300%
+	}
+	90%{
+		left: -400%;
+	}
+	100%{
+		left: -400%;
+	}
+}
+
+
+body{
+	height: 100vh;
+	width: 100%;
+	margin: 0 auto;
+}
+#slide_show{
+	height: 60%;
+	overflow: hidden;
+}
+#slide_show figure img{
+	width: 20%;
+	float: left;
+}
+#slide_show figure{
+	position: relative;
+	width: 100%;
+	left: 0;
+	animation: 20s slide_show infinite;
+	margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div class='container'>
     <header class="masthead text-center">
