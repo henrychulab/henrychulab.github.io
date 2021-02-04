@@ -1,12 +1,15 @@
 
-# example slider
-- selector: example_slider
+
+- selector: slider2
+  bullets: true
   captions: true
   images:
     - src: /image/people/kaicheng.jpg
-      alt: image one
-    - src: /image/people/mike.jpg
-      alt: image two
+      title: Balloons!
+      alt: This slider has caption titles
+    - data-src: /image/people/mike.jpg
+      title: This slider uses the fade effect
+      alt: Instead of the default slide effect
   settings:
     height: "'auto'"
     effect: "'fade'"
