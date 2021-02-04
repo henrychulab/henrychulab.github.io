@@ -113,6 +113,8 @@ _Dynamic Trajectory Planning for Robotic Knot Tying_<br>
 Bo Lu, Henry K. Chu, Li Cheng<br>
 IEEE International Conference on Real-time Computing and Robotics (RCAR), 2016. [[DOI]](https://ieeexplore.ieee.org/document/7784022)[[preprint]](/preprint/lu_rcar_2016.pdf)
 
+<hr>
+
 
 ### Workshops, Posters, & Competitions
 
@@ -130,7 +132,7 @@ _A Novel Wire Driven Soft Robot Manipulator with Visual Servoing Control_<br>
 Jiewen Lai, Henry K. Chu<br>
 The 5th PolyU Mechanical Engineering Research Presentation Competition, PolyU, Hong Kong. 2018.
 
-
+<hr>
 
 ### Copyright Notice
 
