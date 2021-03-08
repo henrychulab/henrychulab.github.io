@@ -12,7 +12,7 @@ IEEE Robotics and Automation Letter (R-AL). 2021. <span style="color:blue">(Subm
 
 _Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision_<br>
 Jiewen Lai, Bo Lu, Henry K. Chu<br>
-IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. <span style="color:blue">(Major Revision)</span>.
+IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. <span style="color:blue">(Major Revision)</span> [[video]](https://youtu.be/QMHYsExF1JE)
 
 _Shape Estimation and Control of a Soft Continuum Robot under External Payloads_<br>
 Qingxiang Zhao, Jiewen Lai, Kaicheng Huang, Xiaobing Hu, Henry K. Chu<br>
@@ -20,7 +20,7 @@ IEEE/ASME Transactions on Mechatronics (T-MECH). 2020. <span style="color:blue">
 
 _Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation_<br>
 Jiewen Lai, Kaicheng Huang, Bo Lu, Qingxiang Zhao, Henry K. Chu<br>
-IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. <span style="color:blue">(Major revisions)</span>.
+IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. <span style="color:blue">(Major revisions)</span> [[video]](https://youtu.be/lsoVwXCSKi0)
 
 _Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers_<br>
 Kaicheng Huang, Zhenxi Cui, Jiewen Lai, Bo Lu , Henry K. Chu<br>
@@ -83,11 +83,11 @@ IEEE International Conference on Intelligent Robots and Systems (IROS), 2020. [[
 
 _Automated Single-microparticle Patterning System for Micro-analytics_<br>
 Kaicheng Huang, Zhenxi Cui, Ihab Abu Ajamieh, Jiewen Lai, James K. Mills, Henry K. Chu<br>
-IEEE International Conference on Automation Science and Engineering (CASE), 2020. [[DOI]](https://ieeexplore.ieee.org/document/9216820)[[preprint]](/preprint/huang_case_2020.pdf)
+IEEE International Conference on Automation Science and Engineering (CASE), 2020. [[DOI]](https://ieeexplore.ieee.org/document/9216820)[[preprint]](/preprint/huang_case_2020.pdf) [[video]](https://youtu.be/EQhd-nqbMF0)
 
 _Toward Vision-based Adaptive Configuring of A Bidirectional Two-Segment Soft Continuum Manipulator_<br>
 Jiewen Lai, Kaicheng Huang, Bo Lu, Henry K. Chu<br>
-IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2020. [[DOI]](https://ieeexplore.ieee.org/document/9158975)[[preprint]](/preprint/lai_aim_2020.pdf)
+IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2020. [[DOI]](https://ieeexplore.ieee.org/document/9158975)[[preprint]](/preprint/lai_aim_2020.pdf) [[video]](https://youtu.be/_yy3LjOx5cc)
 
 _Three-Dimensional Localization of Needle Tip Immersed in Medium_<br>
 Zhenxi Cui, Kaicheng Huang, Bo Lu, Henry K. Chu<br>
