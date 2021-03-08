@@ -22,7 +22,7 @@ CF305, PolyU<br>
 Robotic cooperative control, Deformable object manipulation, Trajectory planning
 
 **Bio**<br>
-Nathan joined our lab as a master student in September 2015, and then a PhD student in September 2018. Before joining PolyU, he received his bachelor’s degree from Shandong University of Technology in 2014. Currently, he is developing adaptive control algorithms for the deformable thin film manipulation.
+Nathan joined our lab as a master student in September 2015, and then a PhD student in September 2018. Before joining PolyU, he received his bachelor’s degree from Shandong University of Technology in 2014. He joined Stevens Institute of Technology, USA, as an exchange research student in 2020. Currently, he is developing adaptive control algorithms for the deformable thin film manipulation.
 
 
 
