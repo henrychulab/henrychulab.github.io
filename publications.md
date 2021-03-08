@@ -8,11 +8,11 @@ permalink: /publication/
 
 _Constrained Motion Planning of A Cable-Driven Soft Robot with Non-Constant Curvature Modeling_<br>
 Jiewen Lai, Qingxiang Zhao, Henry K. Chu<br>
-IEEE Robotics and Automation Letter (R-AL). 2021. <span style="color:blue">(Preparing)</span>.
+IEEE Robotics and Automation Letter (R-AL). 2021. <span style="color:blue">(Submitting)</span>.
 
 _Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision_<br>
 Jiewen Lai, Bo Lu, Henry K. Chu<br>
-IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. <span style="color:blue">(Under Review)</span>.
+IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. <span style="color:blue">(Major Revision)</span>.
 
 _Shape Estimation and Control of a Soft Continuum Robot under External Payloads_<br>
 Qingxiang Zhao, Jiewen Lai, Kaicheng Huang, Xiaobing Hu, Henry K. Chu<br>
@@ -20,35 +20,35 @@ IEEE/ASME Transactions on Mechatronics (T-MECH). 2020. <span style="color:blue">
 
 _Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation_<br>
 Jiewen Lai, Kaicheng Huang, Bo Lu, Qingxiang Zhao, Henry K. Chu<br>
-IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. <span style="color:blue">(Revised and Resubmit)</span>.
+IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. <span style="color:blue">(Major revisions)</span>.
 
 _Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers_<br>
 Kaicheng Huang, Zhenxi Cui, Jiewen Lai, Bo Lu , Henry K. Chu<br>
-IEEE Transactions on Automation Science and Engineering (T-ASE), 2020. <span style="color:blue">(Revised and Resubmit)</span>.
+IEEE Transactions on Automation Science and Engineering (T-ASE), 2020. <span style="color:blue">(in press)</span>.
 
 _Automated Embryo Manipulation and Rotation via Robotic nDEP-tweezers_<br>
 Kaicheng Huang, Ihab Abu Ajamieh, Zhenxi Cui, Jiewen Lai, James K. Mills, Henry K. Chu<br>
-IEEE Transactions on Biomedical Engineering (T-BME), 2020.
+IEEE Transactions on Biomedical Engineering (T-BME), 2020. [[DOI]](https://ieeexplore.ieee.org/document/9224187)[[preprint]](/preprint/huang_tbme_2020.pdf)
 
 _A Learning Approach for Suture Thread Detection with Feature Enhancement and Segmentation for 3D Shape Reconstruction_<br>
 Bo Lu,  Xinbo Yu, Jiewen Lai, Kaicheng Huang, Keith C. C. Chan, Henry K. Chu<br>
-IEEE Transactions on Automation Science and Engineering (T-ASE), 2020.
+IEEE Transactions on Automation Science and Engineering (T-ASE), 2020. [[DOI]](https://ieeexplore.ieee.org/document/8913674)[[preprint]](/preprint/lu_tase_2020.pdf)
 
 _Surgical Suture Thread Detection using a Model-free Approach in a Calibrated Stereo-visual System_<br>
 Bo Lu, Henry K. Chu, Kaicheng Huang, Jiewen Lai, Li Cheng<br>
-IEEE/ASME Transactions on Mechatronics (T-MECH), 2020.
+IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. [[DOI]](https://ieeexplore.ieee.org/document/8845606)[[preprint]](/preprint/lu_tmech_2020.pdf)
 
 _Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis_<br>
 Kaicheng Huang, Bo Lu, Henry K. Chu, Jiewen Lai<br>
-IEEE Transactions on Biomedical Circuits and Systems (T-BCS), 2019.
+IEEE Transactions on Biomedical Circuits and Systems (T-BCAS), 2019. [[DOI]](https://ieeexplore.ieee.org/document/8818352)[[preprint]](/preprint/huang_tbcas_2019.pdf)
 
 _Vision-based Surgical Suture Looping through Trajectory Planning for Wound Suturing_<br>
 Bo Lu, Henry K. Chu, Kaicheng Huang, Li Cheng<br>
-IEEE Transactions on Automation Science and Engineering (T-ASE), 2018.
+IEEE Transactions on Automation Science and Engineering (T-ASE), 2019. [[DOI]](https://ieeexplore.ieee.org/document/8386852)[[preprint]](/preprint/lu_tase_2019.pdf)
 
 _Engineered Bone Scaffolds with Dielectrophoresis-based Patterning using 3D Printing_<br>
 Zhijie Huan, Henry K. Chu, Hongbo Liu, Jie Yang, Dong Sun<br>
-Biomedical Microdevices. 2017.
+Biomedical Microdevices. 2017. [[DOI]](https://link.springer.com/article/10.1007/s10544-017-0245-5)[[preprint]](/preprint/huan_biomicro_2017.pdf)
 
 _Characterization of a Honeycomb-Like Scaffold With Dielectrophoresis-Based Patterning for Tissue Engineering_<br>
 Zhijie Huan, Henry K. Chu, Jie Yang, Dong Sun<br>
