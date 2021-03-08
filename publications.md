@@ -20,7 +20,7 @@ IEEE/ASME Transactions on Mechatronics (T-MECH). 2020. <span style="color:blue">
 
 _Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation_<br>
 Jiewen Lai, Kaicheng Huang, Bo Lu, Qingxiang Zhao, Henry K. Chu<br>
-IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. <span style="color:blue">(Major revisions)</span> [[video]](https://youtu.be/lsoVwXCSKi0)
+IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. <span style="color:blue">(Major revisions)</span> [[video]](https://www.youtube.com/watch?v=etvRgsC1ORw)
 
 _Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers_<br>
 Kaicheng Huang, Zhenxi Cui, Jiewen Lai, Bo Lu , Henry K. Chu<br>
