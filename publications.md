@@ -28,7 +28,7 @@ IEEE Transactions on Automation Science and Engineering (T-ASE), 2020. <span sty
 
 _Automated Embryo Manipulation and Rotation via Robotic nDEP-tweezers_<br>
 Kaicheng Huang, Ihab Abu Ajamieh, Zhenxi Cui, Jiewen Lai, James K. Mills, Henry K. Chu<br>
-IEEE Transactions on Biomedical Engineering (T-BME), 2020. [[DOI]](https://ieeexplore.ieee.org/document/9224187)[[preprint]](/preprint/huang_tbme_2020.pdf)
+IEEE Transactions on Biomedical Engineering (T-BME), 2020. [[DOI]](https://ieeexplore.ieee.org/document/9224187)[[preprint]](/preprint/huang_tbme_2020.pdf) [[video]](https://youtu.be/1zbdfI6GYKA)
 
 _A Learning Approach for Suture Thread Detection with Feature Enhancement and Segmentation for 3D Shape Reconstruction_<br>
 Bo Lu,  Xinbo Yu, Jiewen Lai, Kaicheng Huang, Keith C. C. Chan, Henry K. Chu<br>
