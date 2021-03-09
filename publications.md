@@ -134,6 +134,20 @@ The 5th PolyU Mechanical Engineering Research Presentation Competition, PolyU, H
 
 <hr>
 
+### Theses
+
+_Suture Thread Detection and 3D Model Reconstruction for Automated Surgical Knot Tying with a Vision-Based Robotic System_<br>
+Bo Lu<br>
+PhD Thesis. The Hong Kong Polytechnic Unversity. Hong Kong. 2018. [[pdf]](https://theses.lib.polyu.edu.hk/bitstream/200/10204/1/991022287145703411.pdf)
+
+_Automated Blood Detection for Endoscopic Images_<br>
+Nan Xu<br>
+MSc Thesis. The Hong Kong Polytechnic Unversity. Hong Kong. 2019. [[pdf]](https://theses.lib.polyu.edu.hk/bitstream/200/10118/1/991022270854103411.pdf)
+
+
+<hr>
+
+
 ### Copyright Notice
 
 The documents listed here are available for downloading and have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be re-posted without the explicit permission of the copyright holder.
