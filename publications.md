@@ -134,15 +134,20 @@ The 5th PolyU Mechanical Engineering Research Presentation Competition, PolyU, H
 
 <hr>
 
+
 ### Theses
+
+_Automatic Cell Manipulation and Patterning System Using Dielectrophoresis_<br>
+Kaicheng Huang<br>
+PhD Thesis. The Hong Kong Polytechnic Unversity. Hong Kong. 2020. [[PolyU Electronic Theses]]()
 
 _Suture Thread Detection and 3D Model Reconstruction for Automated Surgical Knot Tying with a Vision-Based Robotic System_<br>
 Bo Lu<br>
-PhD Thesis. The Hong Kong Polytechnic Unversity. Hong Kong. 2018. [[pdf]](https://theses.lib.polyu.edu.hk/bitstream/200/10204/1/991022287145703411.pdf)
+PhD Thesis. The Hong Kong Polytechnic Unversity. Hong Kong. 2019. [[PolyU Electronic Theses]](https://theses.lib.polyu.edu.hk/bitstream/200/10204/1/991022287145703411.pdf)
 
 _Automated Blood Detection for Endoscopic Images_<br>
 Nan Xu<br>
-MSc Thesis. The Hong Kong Polytechnic Unversity. Hong Kong. 2019. [[pdf]](https://theses.lib.polyu.edu.hk/bitstream/200/10118/1/991022270854103411.pdf)
+MSc Thesis. The Hong Kong Polytechnic Unversity. Hong Kong. 2019. [[PolyU Electronic Theses]](https://theses.lib.polyu.edu.hk/bitstream/200/10118/1/991022270854103411.pdf)
 
 
 <hr>
