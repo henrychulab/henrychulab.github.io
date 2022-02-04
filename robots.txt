@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /preprint/
+Disallow: /img/
+Disallow: /preprint
+Disallow: /img
+Disallow: preprint
+Disallow: img
+
