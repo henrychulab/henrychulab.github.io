@@ -313,11 +313,11 @@ div#div_top {
 /*Media queries*/
 @media screen and (max-width: 1200px) {
     .home {
-        width: 90%;
+        width: 100%;
     }
 
     .content-container {
-        width: 80% !important;
+        width: 100% !important;
     }
 
     .download-text {
