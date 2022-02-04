@@ -1,0 +1,359 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Bio Robotics Lab - PolyU</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-2021.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/styles.css" />
+
+    <!-- Pop up images-->
+    <style>
+        /* The Modal (background) */
+        .modal {
+            display: none; /* Hidden by default */
+            position: fixed; /* Stay in place */
+            z-index: 9999; /* Sit on top */
+            padding-top: 100px; /* Location of the box */
+            left: 0;
+            top: 0;
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            overflow: auto; /* Enable scroll if needed */
+            background-color: rgba(0,0,0,0.9); /* Fallback color */
+        }
+
+        /* Modal Content */
+        .modal-content {
+            background-color: transparent;
+            margin: auto;
+            padding: 20px;
+            border: none;
+            width: 80%;
+            z-index: 9999;
+        }
+
+        #caption {
+            margin: auto;
+            display: block;
+            width: 80%;
+            max-width: 600px;
+            text-align: center;
+            color: #ffffff;
+            padding: 10px 0;
+            height: 150px;
+        }
+
+        /* The Close Button */
+        .close {
+            color: #808080;
+            float: right;
+            font-size: 60px;
+            font-weight: bold;
+        }
+
+            .close:hover,
+            .close:focus {
+                color: #000;
+                text-decoration: none;
+                cursor: pointer;
+            }
+    </style>
+
+    <style>
+        body, h1, h2, h3, h4, h5, h6 {
+            font-family: "Montserrat", sans-serif
+        }
+
+        .w3-bar, h1, button {
+            font-family: "Montserrat", sans-serif
+        }
+    </style>
+
+    <style>
+        div.justify {
+            text-align: justify;
+        }
+
+        li {
+            line-height: 30px;
+            margin: 12px 0;
+        }
+
+        a {
+            text-decoration: none;
+            color: navy;
+            font-weight: bold;
+        }
+
+        font {
+            color: #4B0082;
+        }
+
+        #award {
+            color: red;
+        }
+
+        .white {
+            background-color: #ffffff;
+            opacity: 95%;
+        }
+
+        .black {
+            background-color: #e2e2e8;
+            opacity: 95%;
+        }
+
+        li {
+            width: 700px;
+            height: 10px;
+            margin: 20px 0;
+        }
+
+        /* pop up*/
+
+
+    </style>
+
+
+
+
+</head>
+
+
+<body>
+    <!-- Back to top button -->
+    <a href="javascript:" id="return-to-top"><i><img src="../img/up.png" style="float:left;height:16px;"></i></a>
+
+    <!-- Navbar -->
+    <div class="w3-top">
+        <div class="w3-bar w3-black w3-card w3-left-align w3-large">
+            <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-black" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+            <a href="../index.html" class="w3-bar-item w3-button w3-padding-large w3-white">Bio Robotics Lab</a>
+            <a href="news.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">NEWS</a>
+            <a href="research.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">RESEARCH</a>
+            <a href="people.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">PEOPLE</a>
+            <a href="publications.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">PUBLICATIONS</a>
+            <!-- <a href="teaching.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">TEACHING</a> -->
+            <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">FACILITIES</a>
+        </div>
+
+        <!-- Navbar on small screens -->
+        <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
+            <a href="news.html" class="w3-bar-item w3-button w3-padding-large">NEWS</a>
+            <a href="research.html" class="w3-bar-item w3-button w3-padding-large">RESEARCH</a>
+            <a href="people.html" class="w3-bar-item w3-button w3-padding-large">PEOPLE</a>
+            <a href="publications" class="w3-bar-item w3-button w3-padding-large">PUBLICATIONS</a>
+            <!-- <a href="teaching.html" class="w3-bar-item w3-button w3-padding-large">TEACHING</a> -->
+            <a href="facilities.html" class="w3-bar-item w3-button w3-padding-large">FACILITIES</a>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <div id="particles-js"></div>
+    <header class="w3-container w3-black w3-center" style="padding:128px 16px;opacity:80%">
+        <h1 class="w3-margin w3-jumbo home-5-title">Facilities</h1>
+    </header>
+
+
+
+
+
+
+    <!-- Robot arms -->
+    <div class="w3-row-padding w3-padding-large w3-padding-64 w3-container white">
+        <div class="w3-content justify">
+            <div class="w3-twothird w3-left">
+                <h2>Robot arms</h2>
+                <ul>
+                    <li>UR5 robot arms, Universal Robots, Denmark</li>
+                    <li>xArm6 robot arm, UFactory Technology, China</li>
+                    <li>KUKA youBot, KUKA Systems GmbH, Germany</li>
+                    <li>MP-225 Based Multi-Micromanipulator Systems, Sutter Instrument, USA</li>
+                    <li>Three-axis Motorized micromanipulator EMM2, Narishige Group, Japan</li>
+                </ul>
+            </div>
+        </div>
+        <div class="w3-third w3-right">
+            <img id="hide_img" width="200" src="../img/img_fac/robot-arm.png">
+            <br> <br>
+        </div>
+    </div>
+
+    <!-- Sensors & Tools -->
+    <div class="w3-row-padding w3-padding-large w3-padding-64 w3-container black">
+        <div class="w3-content justify">
+            <div class="w3-twothird w3-right">
+                <h2>Sensors & Tools</h2>
+                <ul>
+                    <li>F/T Sensor Nano17, ATI Industrial Automatio</li>
+                    <li>DYNAMIXEL XM430-W350 robotic actuators, ROBOTIS</li>
+                    <li>MP-225 Based Multi-Micromanipulator Systems, Sutter Instrument, USA</li>
+                    <li>SMC ITV0030-3L pressure regulator, SMC Pneumatics,</li>
+                    <li>SZMN Series Zoom Stereo Microscope, Sunny Optical Tech.</li>
+                    <li>Toupcam E3CMOS Industrial Digital Camera, Touptek Photonics</li>
+                    <li>3D printer (FDM) - Flashforge Inventor I, Flashforge</li>
+                    <li>Tektronix TBS1072B Portable Digital Storage Oscilloscope, Tektronix</li>
+                    <li>RGB-D camera - RealSense D435, Intel</li>
+                    <li>Leap Motion Controller, Ultraleap</li>
+                    <li>ZED Mini Stereo Camera, Stereolabs</li>
+                    <li>Phantom Omni - 6 DOF master device </li>
+                    <li>LiDAR sensors</li>
+                    <li>Vacuum chamber</li>
+                    <li>Etc.</li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="w3-third w3-right">
+            <img id="hide_img" width="150" src="../img/img_fac/motion-sensor.png">
+            <br><br><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img id="hide_img" width="150" src="../img/img_fac/oscilloscope.png">
+            <br><br><br>
+            <img id="hide_img" width="150" src="../img/img_fac/3d-printing.png">
+            <br> <br>
+        </div>
+    </div>
+
+    <!-- Biomechanics and Tissue Engineering  ../img/img_fac/fac/leica.jpg -->
+    <div class="w3-row-padding w3-padding-large w3-padding-64 w3-container white">
+        <div class="w3-content justify">
+            <div class="w3-twothird w3-left">
+                <h2>Biomechanics & Tissue Engineering</h2>
+                <ul>
+                    <!--<li>
+                        <p id="myBtn"><span style="cursor:pointer">Inverted Microscope - Leica DMi8, Leica Microsystems</span></p>-->
+                    <!-- Modal -->
+                    <!--<div id="myModal" class="modal">
+                            <div class="modal-content">
+                                <span class="close">&times;</span>
+                                <img src="../img/img_fac/fac/leica.jpg" style="width:100%;height:100%;border-radius:15px"><div id="caption">Inverted Microscope - Leica DMi8, Leica Microsystems</div>
+                            </div>
+                        </div>
+                    </li>-->
+                    <li>Inverted Microscope - Leica DMi8, Leica Microsystems</li>
+                    <li>ESCO Airstream® Class II Biological Safety Cabinet, Esco Lifesciences</li>
+                    <li>ESCO CelCulture® CO₂ Incubator, Esco Lifesciences</li>
+                    <li>C-MAG HS 7 - Magnetic Stieerer with Heating plate, IKA Works GmbH & Co.</li>
+                    <li>D2012 Plus - High Speed Mini Centrifuge, DLAB Scientific</li>
+                    <li>BT300-2J - Medium Flow Rate Peristaltic Pumps, Longer Precision Pump Co., Ltd.</li>
+                    <li>WMA-300 High speed high voltage amplifier, Falcon Systems</li>
+                    <li>4050B Series Dual Channel Function/Arbitrary Waveform Generator, BK Precision</li>
+                    <li>Rocker-300 Oil Free Vacuum Pump, Rocker Scientific</li>
+                    <li>PS-40 10L Ultrasonic Cleanser</li>
+                    <li>KW-4T Spin Coater, Chinese Academy of Sciences,</li>
+                    <li>Others: necessary chemicals, materials, and instrument for biology and cell culture</li>
+
+                </ul>
+            </div>
+        </div>
+        <div class="w3-third w3-right">
+            <img id="hide_img" width="180" src="../img/img_fac/microscope.png">
+            <br><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img id="hide_img" width="150" src="../img/img_fac/centrifuge.png">
+            <br><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img id="hide_img" width="100" src="../img/img_fac/biohazard.png">
+            <br> <br>
+        </div>
+    </div>
+
+
+
+
+
+    <div class="w3-container w3-black w3-center w3-opacity w3-padding-32">
+        <h3 class="w3-margin w3-large">henry.chu@polyu.edu.hk</h3>
+        <h3 class="w3-margin w3-large">FG 609, PolyU, KLN, HK</h3>
+        <h3 class="w3-margin w3-large">(+852) 2766 6662</h3>
+    </div>
+
+    <!-- Footer -->
+    <footer class="w3-container w3-padding-64 w3-center w3-opacity white">
+        <p>
+            <strong>© 2021-2022 Biomimetic Robotics Laboratory</strong>
+        </p>
+
+    </footer>
+
+    <script>
+        // Used to toggle the menu on small screens when clicking on the menu button
+        function myFunction() {
+            var x = document.getElementById("navDemo");
+            if (x.className.indexOf("w3-show") == -1) {
+                x.className += " w3-show";
+            } else {
+                x.className = x.className.replace(" w3-show", "");
+            }
+        }
+    </script>
+
+    <!-- Particles Setting / Order cannot be changed -->
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2/particles.js"></script>
+    <script src="../js/particles.js"></script>
+
+    <!-- Back to top button-->
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+    <script src="../js/scroll2Top.js"></script>
+
+    <!-- Pop-up Images-->
+    <script>
+        // Get the modal
+        var modal = document.getElementById("myModal");
+
+        // Get the button that opens the modal
+        var btn = document.getElementById("myBtn");
+
+        // and the caption in the modal
+        var captionText = document.getElementById("caption");
+
+        // Get the <span> element that closes the modal
+        var span = document.getElementsByClassName("close")[0];
+
+        // When the user clicks the button, open the modal
+        btn.onclick = function () {
+            modal.style.display = "block";
+        }
+
+        // When the user clicks on <span> (x), close the modal
+        span.onclick = function () {
+            modal.style.display = "none";
+            captionText.innerHTML = this.alt;
+        }
+
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function (event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+    </script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
