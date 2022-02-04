@@ -333,7 +333,7 @@ div#div_top {
 /* 取消自適應 */
 
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 600px) {
     .content-container {
         width: 100% !important;
     }
