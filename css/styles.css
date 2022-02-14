@@ -174,8 +174,7 @@ a {
 
 
 
-
-/* ---- particles-js setting---- */
+/* ---- particles-js setting ---- */
 
 canvas {
     display: block;
@@ -392,4 +391,5 @@ div#div_top {
         display: inline-block;
     }
 
+}
 }
